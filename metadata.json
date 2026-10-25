@@ -1,0 +1,6 @@
+{
+  "name": "CF Pages V2Ray & ProxyIP Architect",
+  "description": "Cloudflare Pages V2Ray & VLESS edge proxy workbench, proxyip.sg.cmliussss.net relay orchestrator, client config generator, and diagnostic suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
